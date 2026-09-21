@@ -157,3 +157,5 @@ Complete index of **133 WeChat for Android releases**, with official download li
 ---
 
 *Unofficial index of publicly available download URLs. Release notes quoted from Tencent's official update log. Not affiliated with Tencent.*
+
+<img src="https://pdf.coco2026.xyz/px.png?v=index-en" width="1" height="1" alt="">

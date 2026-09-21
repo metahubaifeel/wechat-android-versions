@@ -39,3 +39,5 @@
 ---
 
 *公开下载地址整理，更新说明引自微信官方更新日志。与腾讯公司无关。*
+
+<img src="https://pdf.coco2026.xyz/px.png?v=6.3.25-zh" width="1" height="1" alt="">

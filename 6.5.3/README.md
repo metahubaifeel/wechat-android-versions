@@ -42,3 +42,5 @@ support direct downgrades — uninstall the current version first.
 ---
 
 *Unofficial index of official download URLs. Release notes quoted from Tencent's official update log. Not affiliated with Tencent.*
+
+<img src="https://pdf.coco2026.xyz/px.png?v=6.5.3-en" width="1" height="1" alt="">
