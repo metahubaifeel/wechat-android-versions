@@ -2,7 +2,7 @@
 
 # WeChat for Android — Version History & Official Downloads
 
-Complete index of **133 WeChat for Android releases**, with official download links for every build.
+Complete index of **133 WeChat for Android releases**, with official download links and release notes.
 
 > All downloads are served directly by Tencent's official CDN (`dldir1v6.qq.com`). This repository does not host any APK files.
 
@@ -154,18 +154,6 @@ Complete index of **133 WeChat for Android releases**, with official download li
 | **5.4** | 2014-08-28 | universal | [Download →](5.4/)
 | **5.3.1** | 2014-06-27 | universal | [Download →](5.3.1/)
 
-## ❓ FAQ
-
-**Are these official WeChat builds?**
-Yes. Every link points to Tencent's official CDN. This repository only indexes URLs — it does not modify, rehost, or repackage any installer.
-
-**How do I install an older version?**
-Back up your chat history first, then uninstall the current version before installing an older build.
-
-**Why are there multiple files for one version?**
-Tencent sometimes publishes several builds under one version number, usually for different CPU architectures or build revisions.
-
-
 ---
 
-*Unofficial index of publicly available download URLs. Not affiliated with Tencent. WeChat is a trademark of Tencent.*
+*Unofficial index of publicly available download URLs. Release notes quoted from Tencent's official update log. Not affiliated with Tencent.*

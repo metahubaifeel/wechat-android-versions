@@ -4,8 +4,12 @@
 
 **Version `8.0.6`** · **Released May 27, 2021** · **Platform Android**
 
-> WeChat 8.0.6 is a historical release of the WeChat Android client. All download
-> links below point directly to Tencent's official CDN (`dldir1v6.qq.com`).
+> WeChat 8.0.6 for Android, with the official download links and the release notes
+> published by Tencent for this build.
+
+## What's new in 8.0.6
+
+- Fixed some known issues.
 
 ## ⬇️ Download WeChat 8.0.6
 
@@ -23,20 +27,17 @@
 | Package type | APK |
 | Source | Tencent official CDN |
 
-## About this release
+## Notes
 
-WeChat 8.0.6 was published on May 27, 2021. Use the table above if you need to roll
-back to this build or verify a specific build number.
-
-> ⚠️ Back up your chat history before installing an older version. Android does
-> not support direct downgrades — uninstall the current version first.
+Back up your chat history before installing an older version. Android does not
+support direct downgrades — uninstall the current version first.
 
 ## Nearby versions
 
-[⬆️ Newer version: WeChat 8.0.7](../8.0.7/) ｜ [⬇️ Older version: WeChat 8.0.3](../8.0.3/)
+[⬆️ Newer: WeChat 8.0.7](../8.0.7/) ｜ [⬇️ Older: WeChat 8.0.3](../8.0.3/)
 
 [← All versions](../)
 
 ---
 
-*Unofficial index of official download URLs. Not affiliated with Tencent.*
+*Unofficial index of official download URLs. Release notes quoted from Tencent's official update log. Not affiliated with Tencent.*

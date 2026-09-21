@@ -4,8 +4,12 @@
 
 **Version `7.0.5`** · **Released July 4, 2019** · **Platform Android**
 
-> WeChat 7.0.5 is a historical release of the WeChat Android client. All download
-> links below point directly to Tencent's official CDN (`dldir1v6.qq.com`).
+> WeChat 7.0.5 for Android, with the official download links and the release notes
+> published by Tencent for this build.
+
+## What's new in 7.0.5
+
+- Fixed some known issues.
 
 ## ⬇️ Download WeChat 7.0.5
 
@@ -23,20 +27,17 @@
 | Package type | APK |
 | Source | Tencent official CDN |
 
-## About this release
+## Notes
 
-WeChat 7.0.5 was published on July 4, 2019. Use the table above if you need to roll
-back to this build or verify a specific build number.
-
-> ⚠️ Back up your chat history before installing an older version. Android does
-> not support direct downgrades — uninstall the current version first.
+Back up your chat history before installing an older version. Android does not
+support direct downgrades — uninstall the current version first.
 
 ## Nearby versions
 
-[⬆️ Newer version: WeChat 7.0.6](../7.0.6/) ｜ [⬇️ Older version: WeChat 7.0.4](../7.0.4/)
+[⬆️ Newer: WeChat 7.0.6](../7.0.6/) ｜ [⬇️ Older: WeChat 7.0.4](../7.0.4/)
 
 [← All versions](../)
 
 ---
 
-*Unofficial index of official download URLs. Not affiliated with Tencent.*
+*Unofficial index of official download URLs. Release notes quoted from Tencent's official update log. Not affiliated with Tencent.*

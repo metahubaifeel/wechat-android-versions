@@ -4,8 +4,15 @@
 
 **Version `6.0.2`** · **Released December 24, 2014** · **Platform Android**
 
-> WeChat 6.0.2 is a historical release of the WeChat Android client. All download
-> links below point directly to Tencent's official CDN (`dldir1v6.qq.com`).
+> WeChat 6.0.2 for Android, with the official download links and the release notes
+> published by Tencent for this build.
+
+## What's new in 6.0.2
+
+- Video chat windows can be minimized so you can use other features while on a call.
+- Custom emojis can now be synced to new devices.
+- You can now change the font size for WeChat chats and Moments.
+- Android watches can now quickly send and receive WeChat messages.
 
 ## ⬇️ Download WeChat 6.0.2
 
@@ -23,20 +30,17 @@
 | Package type | APK |
 | Source | Tencent official CDN |
 
-## About this release
+## Notes
 
-WeChat 6.0.2 was published on December 24, 2014. Use the table above if you need to roll
-back to this build or verify a specific build number.
-
-> ⚠️ Back up your chat history before installing an older version. Android does
-> not support direct downgrades — uninstall the current version first.
+Back up your chat history before installing an older version. Android does not
+support direct downgrades — uninstall the current version first.
 
 ## Nearby versions
 
-[⬆️ Newer version: WeChat 6.1](../6.1/) ｜ [⬇️ Older version: WeChat 6.0](../6.0/)
+[⬆️ Newer: WeChat 6.1](../6.1/) ｜ [⬇️ Older: WeChat 6.0](../6.0/)
 
 [← All versions](../)
 
 ---
 
-*Unofficial index of official download URLs. Not affiliated with Tencent.*
+*Unofficial index of official download URLs. Release notes quoted from Tencent's official update log. Not affiliated with Tencent.*

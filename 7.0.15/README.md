@@ -4,8 +4,15 @@
 
 **Version `7.0.15`** · **Released May 28, 2020** · **Platform Android**
 
-> WeChat 7.0.15 is a historical release of the WeChat Android client. All download
-> links below point directly to Tencent's official CDN (`dldir1v6.qq.com`).
+> WeChat 7.0.15 for Android, with the official download links and the release notes
+> published by Tencent for this build.
+
+## What's new in 7.0.15
+
+- Dark mode can now be set independently of system settings (requires OS support).
+- You can now start a chain message directly from the attachments panel in group chats.
+- Tapping a new message notification in WeChat automatically minimizes the current webpage, mini program, etc., to a floating window.
+- You can now favorite specific mini program pages.
 
 ## ⬇️ Download WeChat 7.0.15
 
@@ -23,20 +30,17 @@
 | Package type | APK |
 | Source | Tencent official CDN |
 
-## About this release
+## Notes
 
-WeChat 7.0.15 was published on May 28, 2020. Use the table above if you need to roll
-back to this build or verify a specific build number.
-
-> ⚠️ Back up your chat history before installing an older version. Android does
-> not support direct downgrades — uninstall the current version first.
+Back up your chat history before installing an older version. Android does not
+support direct downgrades — uninstall the current version first.
 
 ## Nearby versions
 
-[⬆️ Newer version: WeChat 7.0.16](../7.0.16/) ｜ [⬇️ Older version: WeChat 7.0.14](../7.0.14/)
+[⬆️ Newer: WeChat 7.0.16](../7.0.16/) ｜ [⬇️ Older: WeChat 7.0.14](../7.0.14/)
 
 [← All versions](../)
 
 ---
 
-*Unofficial index of official download URLs. Not affiliated with Tencent.*
+*Unofficial index of official download URLs. Release notes quoted from Tencent's official update log. Not affiliated with Tencent.*

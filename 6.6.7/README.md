@@ -4,8 +4,12 @@
 
 **Version `6.6.7`** · **Released May 30, 2018** · **Platform Android**
 
-> WeChat 6.6.7 is a historical release of the WeChat Android client. All download
-> links below point directly to Tencent's official CDN (`dldir1v6.qq.com`).
+> WeChat 6.6.7 for Android, with the official download links and the release notes
+> published by Tencent for this build.
+
+## What's new in 6.6.7
+
+- Minimize articles you’re reading into a floating window.
 
 ## ⬇️ Download WeChat 6.6.7
 
@@ -23,20 +27,17 @@
 | Package type | APK |
 | Source | Tencent official CDN |
 
-## About this release
+## Notes
 
-WeChat 6.6.7 was published on May 30, 2018. Use the table above if you need to roll
-back to this build or verify a specific build number.
-
-> ⚠️ Back up your chat history before installing an older version. Android does
-> not support direct downgrades — uninstall the current version first.
+Back up your chat history before installing an older version. Android does not
+support direct downgrades — uninstall the current version first.
 
 ## Nearby versions
 
-[⬆️ Newer version: WeChat 6.7.2](../6.7.2/) ｜ [⬇️ Older version: WeChat 6.6.6](../6.6.6/)
+[⬆️ Newer: WeChat 6.7.2](../6.7.2/) ｜ [⬇️ Older: WeChat 6.6.6](../6.6.6/)
 
 [← All versions](../)
 
 ---
 
-*Unofficial index of official download URLs. Not affiliated with Tencent.*
+*Unofficial index of official download URLs. Release notes quoted from Tencent's official update log. Not affiliated with Tencent.*

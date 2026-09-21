@@ -4,8 +4,13 @@
 
 **Version `7.0.17`** · **Released July 23, 2020** · **Platform Android**
 
-> WeChat 7.0.17 is a historical release of the WeChat Android client. All download
-> links below point directly to Tencent's official CDN (`dldir1v6.qq.com`).
+> WeChat 7.0.17 for Android, with the official download links and the release notes
+> published by Tencent for this build.
+
+## What's new in 7.0.17
+
+- Channels adds “Floating Comments” so you can view comments while watching videos.
+- In chats, the long-press message menu has a new look.
 
 ## ⬇️ Download WeChat 7.0.17
 
@@ -23,20 +28,17 @@
 | Package type | APK |
 | Source | Tencent official CDN |
 
-## About this release
+## Notes
 
-WeChat 7.0.17 was published on July 23, 2020. Use the table above if you need to roll
-back to this build or verify a specific build number.
-
-> ⚠️ Back up your chat history before installing an older version. Android does
-> not support direct downgrades — uninstall the current version first.
+Back up your chat history before installing an older version. Android does not
+support direct downgrades — uninstall the current version first.
 
 ## Nearby versions
 
-[⬆️ Newer version: WeChat 7.0.18](../7.0.18/) ｜ [⬇️ Older version: WeChat 7.0.16](../7.0.16/)
+[⬆️ Newer: WeChat 7.0.18](../7.0.18/) ｜ [⬇️ Older: WeChat 7.0.16](../7.0.16/)
 
 [← All versions](../)
 
 ---
 
-*Unofficial index of official download URLs. Not affiliated with Tencent.*
+*Unofficial index of official download URLs. Release notes quoted from Tencent's official update log. Not affiliated with Tencent.*

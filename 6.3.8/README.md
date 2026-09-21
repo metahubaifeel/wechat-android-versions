@@ -4,8 +4,15 @@
 
 **Version `6.3.8`** · **Released December 8, 2015** · **Platform Android**
 
-> WeChat 6.3.8 is a historical release of the WeChat Android client. All download
-> links below point directly to Tencent's official CDN (`dldir1v6.qq.com`).
+> WeChat 6.3.8 for Android, with the official download links and the release notes
+> published by Tencent for this build.
+
+## What's new in 6.3.8
+
+- WeRun now lets you view step charts and add people to follow.
+- You can now view files and links in chat images.
+- You can also pay merchants from the + menu in the top right.
+- You can now add individual stickers from sets to Custom.
 
 ## ⬇️ Download WeChat 6.3.8
 
@@ -23,20 +30,17 @@
 | Package type | APK |
 | Source | Tencent official CDN |
 
-## About this release
+## Notes
 
-WeChat 6.3.8 was published on December 8, 2015. Use the table above if you need to roll
-back to this build or verify a specific build number.
-
-> ⚠️ Back up your chat history before installing an older version. Android does
-> not support direct downgrades — uninstall the current version first.
+Back up your chat history before installing an older version. Android does not
+support direct downgrades — uninstall the current version first.
 
 ## Nearby versions
 
-[⬆️ Newer version: WeChat 6.3.9](../6.3.9/) ｜ [⬇️ Older version: WeChat 6.3.7](../6.3.7/)
+[⬆️ Newer: WeChat 6.3.9](../6.3.9/) ｜ [⬇️ Older: WeChat 6.3.7](../6.3.7/)
 
 [← All versions](../)
 
 ---
 
-*Unofficial index of official download URLs. Not affiliated with Tencent.*
+*Unofficial index of official download URLs. Release notes quoted from Tencent's official update log. Not affiliated with Tencent.*
